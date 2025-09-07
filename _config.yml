@@ -1,6 +1,5 @@
 title: <p align="center" > Anees Portfolio </p> 
 logo: /assets/img/logo.png
 description: A Software Developer
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
