@@ -29,6 +29,6 @@ A real-time chat app with group and private messaging, built using WebSockets.
 ---
 
 ## 📫 Contact
-- Email: [you@example.com](mailto:you@example.com)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: [you@example.com](mailto:shaikanees030303@example.com)  
+- GitHub: [github.com/yourusername](https://github.com/Anees02)  
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/anees03)
